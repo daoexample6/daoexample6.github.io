@@ -1,5 +1,4 @@
 'use strict';
-
 var PushKaSw = function()
 {
     var sw = this;
